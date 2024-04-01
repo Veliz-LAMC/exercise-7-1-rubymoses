@@ -64,7 +64,6 @@ header img {
 /* this is the submenu styles */
 #nav_menu ul ul{
 	display: none;
-	position: abolute;
 	top: 100%;
 }
 #nav_menu ul li:hover >ul{
