@@ -139,7 +139,9 @@ aside h3 {
 aside img {
 	padding-bottom: 1em;
 }
-
+footer ul{
+	list-style-type:cirle;
+}
 /* the styles for the footer */
 footer {
 	background-color: #931420;
